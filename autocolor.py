@@ -1,3 +1,6 @@
+# Ryan Pope (Popestr)
+# Copyright 2019
+
 import pigpio, json
 global pi
 pi = pigpio.pi();

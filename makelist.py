@@ -1,3 +1,6 @@
+# Ryan Pope (Popestr)
+# Copyright 2019
+
 import json
 
 list = open("colorcode.csv", "r")

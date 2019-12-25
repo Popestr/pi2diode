@@ -1,3 +1,6 @@
+# Ryan Pope (Popestr)
+# Copyright 2019
+
 import time, json, pigpio, random, math
 global pollColor, dbName, r, g, b, fadeTime, step, red_pin, green_pin, blue_pin, pi
 pi = pigpio.pi();

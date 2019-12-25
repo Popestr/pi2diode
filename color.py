@@ -1,3 +1,6 @@
+# Ryan Pope (Popestr)
+# Copyright 2019
+
 import json, random, pigpio
 global pi, channels
 pi = pigpio.pi();
