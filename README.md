@@ -3,4 +3,4 @@ A PiGPIO-based library for controlling SMD-5050 LED strips using a Raspberry Pi 
 
 Inspired by [this guide.](https://dordnung.de/raspberrypi-ledstrip/)
 
-^Documentation ^is ^still ^in ^progress.
+*Documentation is still in progress.*
