@@ -1,6 +1,10 @@
 # Ryan Pope (Popestr)
 # Copyright 2019
 
+# fading.py: A more complex script for generating fades and fade sequences (referred to as rainbows).
+
+# Documentation for fading.py is still in progress.
+
 import time, json, pigpio, random, math
 global pollColor, dbName, r, g, b, fadeTime, step, red_pin, green_pin, blue_pin, pi
 pi = pigpio.pi();
